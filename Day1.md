@@ -1,36 +1,42 @@
-##Day 1: Introduction to CSS & Basics (0:00:00-1:11:56)
+## Day 1: Introduction to CSS & Basics (0:00:00-1:11:56)
 --
-## Intro 
+### Intro 
 **Q:What is CSS?**
 **A:**
 CSS(short of Cascading Style Sheets) is the language used to control the visual presentation of web documents written in HTML or XML. It controls colors, fonts, spacing, layout , and more. 
 HTML builds the structure and CSS styles it visually.
 --
-## Start here
+### Start here
 **Q: What are the three ways to apply CSS to an HTML document?**
 **A:**
-1. -Inline : 'style' attribute inside HTML tag.
-2. -Internal: placing CSS rules inside a '<style>' tag in the '<head>'.
-3. -External: writting CSS in a separate CSS file and linking it with <link> element.
+-Inline : 'style' attribute inside HTML tag.
+-Internal: placing CSS rules inside a '<style>' tag in the '<head>'.
+-External: writting CSS in a separate CSS file and linking it with <link> element.
 --
-## Selectors
+### Selectors
 **Q: What are the three main types of CSS selectors?**
 **A:**
-1.   -Element selector
-2.   -Class selector 
-3.   -ID selector
+-Element selector
+-Class selector 
+-ID selector
+
 **Q: How can you select an element by its ID in CSS?**
+
 **A:**
 By using '#' symbol followed by the ID name.
+
 **Q: What is the difference between a class selector and an ID selector in CSS?**
+
 **A:**
 1. -Class selectors: can be reused on multiple elements.
 2.  -ID selectors : should be unique for a single element in the page.
+
 **Q: How do you group multiple selectors in CSS?**
+
 **A:**
  Use commas to separate selectors.
 --
-##Colors
+### Colors
 **Q: Why is the property name "color" used in CSS instead of "colour"?**
 **A:** 
 Because CSS uses American English. So its "color" instead of "colour".
@@ -52,14 +58,14 @@ It forces the CSS rule to override any other rule.
 **A:**
  Just use background-color to the body tag.
 --
-##Units & Sizes
+### Units & Sizes
 **Q: What are some common units used in CSS for sizing elements?**
 **A:**
 1. -Absolute units: px, pt, cm, in
 2. -Relatives units: em, rem,%
 3. -Viewport: vw, vh, vmin, vmax
 --
-##Box Model
+### Box Model
 **Q: What are the components of the CSS Box Model?**
 **A:** 
 1. -Content
