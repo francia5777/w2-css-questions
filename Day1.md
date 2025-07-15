@@ -1,9 +1,9 @@
-# Day 1: Introduction to CSS & Basics (0:00:00-1:11:56)
+##Day 1: Introduction to CSS & Basics (0:00:00-1:11:56)
 --
 ## Intro 
 **Q:What is CSS?**
 **A:**
- CSS(short of Cascading Style Sheets) is the language used to control the visual presentation of web documents written in HTML or XML. It controls colors, fonts, spacing, layout , and more. 
+CSS(short of Cascading Style Sheets) is the language used to control the visual presentation of web documents written in HTML or XML. It controls colors, fonts, spacing, layout , and more. 
 HTML builds the structure and CSS styles it visually.
 --
 ## Start here
