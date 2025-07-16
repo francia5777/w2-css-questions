@@ -43,44 +43,44 @@
 - `display: flex`;
 - `justify-content: center`;
 - `align-items: center`;
-**Q: How does flex-direction work?**
+**Q: How does flex-direction work?**  
 **A:** It sets the direction of items: row, row-reverse, column, or column-reverse.
 
-**Q: How do you add space between your elements using Flexbox?**
+**Q: How do you add space between your elements using Flexbox?**  
 **A:** By using `justify-content: space-between` or  `space-around` or `space-evenly`.
 
-**Q: How do you control an overflow element?**
+**Q: How do you control an overflow element?**  
 **A:** By using `overflow: auto` or `scroll` or `hidden`.
 
-**Q: What is the difference between flex-grow and flex-shrink?**
+**Q: What is the difference between flex-grow and flex-shrink?**  
 **A:**
 
 - `flex-grow`: Allows an item to grow if extra space is available.
 
 - `flex-shrink`: Allows an item to shrink if space is tight.
 
-**Q: What is the purpose of flex-shrink?**
+**Q: What is the purpose of flex-shrink?**  
 **A:** It defines how an item reduces its size when the container is too small.
 ---
 ## Grid Layout
 
-**Q: What are the different ways to apply a grid to a webpage?**
+**Q: What are the different ways to apply a grid to a webpage?**  
 **A:** By using `display: grid` or `display: inline-grid`.
 
-**Q: What are grid-template-columns and grid-template-rows?**
+**Q: What are grid-template-columns and grid-template-rows?**  
 **A:** They define the number and size of the columns and rows in the grid.
 
-**Q: How does CSS Grid differ from Flexbox?**
+**Q: How does CSS Grid differ from Flexbox?**  
 **A:**
 
 - Grid is for 2D layouts.
 
 - Flexbox is for 1D layouts.
 
-**Q: What is an absolute value and fraction unit in CSS grid?**
+**Q: What is an absolute value and fraction unit in CSS grid?**  
 **A:**
 - absolute value: fixed units like px, %.
 - fraction unit: divides remaining space proportionally.
 
-**Q: What is the purpose of grid-template-areas?**
+**Q: What is the purpose of grid-template-areas?**  
 **A:** It allows naming sections of a layout for easier placement.
