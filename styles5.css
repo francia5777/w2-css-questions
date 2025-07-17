@@ -1,0 +1,30 @@
+body {
+    background-color: #e6daac;
+}
+h1 {
+    margin: 20px;
+    color: #112a46;
+}
+p{
+    padding: 20px;
+    margin: 20px;
+    font-size: 18px;
+    line-height: 1.5;
+    background-color: rgb(206, 201, 201);
+    text-align: center;
+}
+.container {
+    column-count: 3;
+    column-gap: 20px;
+    column-rule: 2px solid #000;
+}
+.sticky-element {
+    font-size: 20px;
+    position: relative;
+    top: 0;
+    z-index: 10;
+    padding: 10px;
+    margin-top: 20px;
+    display: block;
+    width: 100%;
+}
